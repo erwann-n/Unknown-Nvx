@@ -1,4 +1,4 @@
-<h2 align="center">Hello 👋, I'm Erwann</h2>
+<h2 align="center">Hello 👋, I'm Erwann.</h2>
 <h4 align="center">A Javascript Web Developer & Tech enthusiast.</h4>
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=unknown-nvx&show_icons=true&locale=en&layout=compact" alt="unknown-nvx" /></p>
